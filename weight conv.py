@@ -5,8 +5,8 @@ weight = int(input("Weight: "))
 #this is for the original input.
 unit = input("(K)g or (L)bs: ")
 
-#if the user inputted "K" or "k" (doesn't matter as I used .upper() here) the weight will be devided by 0.45
-#the message would concatinate both the message "weight in Lbs" with the converted int to string result.
+#if the user inputted "K" or "k" (doesn't matter as I used .upper() here) the weight will be divided by 0.45
+#the message would concatinate both the message "Weight in Lbs" with the converted int-to-string result.
 if unit.upper() == "K":
     converted = weight / 0.45
     print("Weight in Lbs: " + str(converted))
