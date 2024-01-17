@@ -15,6 +15,6 @@ def dog_year_converter(years):
 #starts with asking the user to input their dogs age, with a valid intiger and greater than 0
 #the final result is the dogs age in dog years from the inputted human years.
 human_years = input('Enter your dogs age in human years: ')
-print(dog_year_converter(2))
+print("Your dog is " + str(dog_year_converter(2)) + " in dog years")
 
 #e.g 7, the result will be 49
