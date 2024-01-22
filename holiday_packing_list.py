@@ -30,8 +30,7 @@ items = {
 
 #here are the restricted items. None of these are allowed on a plane (option 2) 
 #so they will not be present in the "need to pack" list. 
-#However in car travel (option 1) items such as scissors and shampoo are okay to take, 
-#but the rest of these items are not okay to have in general.
+#However in car travel (option 1) items such as scissors and shampoo are okay to take
 restricted_items = {
     "catapult",
     "fuel",
