@@ -35,7 +35,6 @@ items = {
 restricted_items = {
     "catapult",
     "fuel",
-    "gun",
     "knife",
     "razor blades",
     "scissors",
