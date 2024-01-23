@@ -23,3 +23,7 @@ Works with the contents.py file. In the contents.py file, you will find the ingr
 ***
 # Holiday Packing List
 This programme gives the user lists of what they should pack for when they want to go on holiday. There are 2 options, Option 1 = travel by car. Option 2 = travel by plane. There are items which you can take when you travel by car, but not when you travel by plane. These restricted items do not appear on any of the "need to pack lists". Except for when you select option 1. Items such as Shampoo & Scissors are fine so they will be printed.
+
+***
+# Number Guessing Game
+The user must guess which number the random module has chosen. 
