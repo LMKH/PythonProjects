@@ -1,7 +1,7 @@
 #travel modes
 travel_mode = {"1": "car", "2": "plane"}
 
-#here we have a list of household items
+#here we have dictionary which lists a load of household items
 items = {
     "can opener",
     "fuel",
