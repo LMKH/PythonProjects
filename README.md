@@ -21,6 +21,12 @@ For when you need a little help figuring out what to eat! The user gets prompted
 Works with the contents.py file. In the contents.py file, you will find the ingredients inside the pantry and the recipes.
 
 ***
+# Jukebox Menu + Nested Data
+Taking the data from Jukebox_Nested_Data, I have created a jukebox menu. By inputting the correct corresponding numbers you will be able to "play" a song. By selecting one of the albums, you will be presented with a list of songs from the chosen album. Selecting again one of the songs, a message will be presented to the user showing them which song is currently playing.
+
+Works with the Jukebox_Nested_Data.py file. In albums, you will find lists of albums, the artists, the songs and the years they were released.
+
+***
 # Holiday Packing List
 This programme gives the user lists of what they should pack for when they want to go on holiday. There are 2 options, Option 1 = travel by car. Option 2 = travel by plane. There are items which you can take when you travel by car, but not when you travel by plane. These restricted items do not appear on any of the "need to pack lists". Except for when you select option 1. Items such as Shampoo & Scissors are fine so they will be printed.
 
