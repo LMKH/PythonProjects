@@ -33,3 +33,7 @@ This programme gives the user lists of what they should pack for when they want 
 ***
 # Number Guessing Game
 The user must guess which number the random module has chosen. 
+
+***
+# Password Generator
+Utilising the random method, the user simply inputs the length of the password they want. The result is a completely randomly generated password. In the programme I have put into their respective variables, all lower case and upper case letters, all the numbers and symbols. By combining and joining them the programme generates a new random password.
